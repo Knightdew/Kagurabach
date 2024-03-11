@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1710136864",
       "groups": {
-        "": "https://read-kagurabachi.com/manga/kagurabachi-chapter-1/"
+        "": [
+          "https://read-kagurabachi.com/manga/kagurabachi-chapter-1/"
+        ]
       }
     }
   }
