@@ -5,14 +5,12 @@
   "author": "Takeru Hokazono",
   "cover": "https://read-kagurabachi.com/",
   "chapters": {
-    "25": {
-      "title": "25",
-      "volume": "",
-      "last_updated": "1710136547",
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1710136864",
       "groups": {
-        "": [
-          "https://read-kagurabachi.com/manga/kagurabachi-chapter-1/"
-        ]
+        "": "https://read-kagurabachi.com/manga/kagurabachi-chapter-1/"
       }
     }
   }
